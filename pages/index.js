@@ -54,7 +54,7 @@ export default function Home() {
           <div style={styles.footerContent}>
             <p style={styles.footerText}>O NÚM! © 2025 O NÚMERO</p>
             <a
-              href="https://github.com/GabrielIvison3"
+              href="https://github.com/GabrielIvison"
               target="_blank"
               rel="noopener noreferrer"
               style={styles.githubLink}
